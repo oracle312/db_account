@@ -36,3 +36,4 @@
 
 ### 🖥️ 결과물
 ---
+![2](https://github.com/oracle312/db_account/assets/72733953/dab4ce34-871a-488a-9955-a076a244686c)
